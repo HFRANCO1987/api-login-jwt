@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: api-login
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dfsistemas
+Implementation-Vendor-Id: br.com.dfsistemasweb
+Build-Jdk: 1.8.0_242
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/api-login
+Created-By: Maven Integration for Eclipse
+
